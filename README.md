@@ -22,8 +22,9 @@ Never have to use your cursor!
 | Toggle Side Bar | Ctrl + b |
 
 ## Command Thing
-All commans need to be entered into the command prompt
+All commands need to be entered into the command prompt
 | Description | Command |
+|-|-|
 | Open | Ctrl + p |
 | Go to Line Number n | :n |
 | Got to Symbol n | @n |
