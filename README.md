@@ -28,3 +28,9 @@ All commands need to be entered into the command prompt
 | Open | Ctrl + p |
 | Go to Line Number n | :n |
 | Got to Symbol n | @n |
+
+## Powershell
+| Description | Command |
+|-|-|
+| Go Fullscreen | alt + enter |
+| move by word (like ctrl in vscode) | hold alt |
